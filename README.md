@@ -2,5 +2,5 @@
 This is an infographic I constructed mapping out the layers of the OSI and TCP/IP models, along with technologies that relate to each at their respective layers. 
 
 <p align="center">
-<img src="https://imgur.com/kXaedrT" alt="OSI_Map"/>
+<img src="https://imgur.com/kXaedrT.png" alt="OSI_Map"/>
 </p>
