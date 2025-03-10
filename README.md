@@ -1,5 +1,5 @@
-# OSI_TCP_IP_Model_Map
-This is an infographic I constructed mapping out the layers of the OSI and TCP/IP models, along with technologies that relate to each at their respective layers. 
+# OSI and TCP/IP Model Map
+This is an infographic I constructed mapping out the layers of the OSI and TCP/IP models, along with technologies that relate to each at their respective layers. It is far from exhaustive, but has become a useful reference for me as I continue to learn about networking communications. 
 
 <p align="center">
 <img src="https://imgur.com/kXaedrT.png" alt="OSI_Map"/>
