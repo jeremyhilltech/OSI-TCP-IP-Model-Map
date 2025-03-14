@@ -5,5 +5,5 @@ If you would like to have your own copy to edit, I here is a link to an editable
 https://rb.gy/4thdas
 
 <p align="center">
-<img src="https://i.imgur.com/h5opeHl.png" alt="OSI_Map"/>
+<img src="https://i.imgur.com/ONSPY17.png" alt="OSI_Map"/>
 </p>
